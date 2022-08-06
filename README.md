@@ -9,11 +9,13 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: https://lnkd.in/dPpwW3jR
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm also a painter! :P
+- 🎨 fact: I'm also a painter! :P
+- 🏀 sports lover
 
-Hot links
+        🔥Hot links🔥
+🐣://twitter.com/IgnacioRossatti
+💼 https://www.linkedin.com/in/ignacio-rossatti-47b60522a/
 
-https://twitter.com/IgnacioRossatti
 
 --><!--
 **nacho337/nacho337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
