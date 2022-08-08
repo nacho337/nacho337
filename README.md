@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 🔥Hot links🔥
 
-🐣://twitter.com/IgnacioRossatti
+🐣https://twitter.com/IgnacioRossatti
 
 💼 https://www.linkedin.com/in/ignacio-rossatti-47b60522a/
 
