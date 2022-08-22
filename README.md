@@ -12,8 +12,7 @@ Here are some ideas to get you started:
 - 🎨 fact: I'm also a painter! :P
 - 🏀 sports lover
 
-🔥Hot links🔥
-
+links relacionados
 🐣https://twitter.com/IgnacioRossatti
 
 💼 https://www.linkedin.com/in/ignacio-rossatti-47b60522a/
