@@ -1,5 +1,5 @@
 ### Welcome to my profile:P 👋
-Hi! I'm Ignacio, I love launching products and share with you how to do the same. Hope you find useful my public repos.!!
+Hi! I'm Ignacio!
 
 Here are some ideas to get you started:
 
