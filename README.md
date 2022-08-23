@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 🏀 sports lover
 
 links relacionados
+
 🐣https://twitter.com/IgnacioRossatti
 
 💼 https://www.linkedin.com/in/ignacio-rossatti-47b60522a/
