@@ -20,7 +20,6 @@ links relacionados
 
 Idiomas y Herramientas:
 
-<a href="https://www.flaticon.es/iconos-gratis/css-3" title="css 3 iconos">Css 3 iconos creados por Freepik - Flaticon</a>
 
 
 
