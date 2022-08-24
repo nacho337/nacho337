@@ -18,7 +18,6 @@ links relacionados
 
 💼 https://www.linkedin.com/in/ignacio-rossatti-47b60522a/
 
-Idiomas y Herramientas:
 
 
 
