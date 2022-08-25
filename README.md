@@ -1,5 +1,5 @@
 ### Welcome to my profile:P 👋
-Hi! I'm Ignacio!
+Hi!  Im Ignacio Rossatti!
 
 Here are some ideas to get you started:
 
