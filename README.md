@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on new side projects
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: https://lnkd.in/dPpwW3jR
+- 📫 How to reach me: 
 - 😄 Pronouns: He/Him
 - 🎨 fact: I'm also a painter! :P
 - 🏀 sports lover
