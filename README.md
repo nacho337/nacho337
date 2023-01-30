@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on new side projects
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: 
+- 📫 How to reach me: https://www.linkedin.com/in/ignacio-rossatti-47b60522a/
 - 😄 Pronouns: He/Him
 - 🎨 fact: I'm also a painter! :P
 - 🏀 sports lover
