@@ -1,16 +1,14 @@
-### Welcome to my profile:P 👋
-Hi!  Im Ignacio Rossatti!
+                                 A passionate full stack developer from Argentina
 
-Here are some ideas to get you started:
+I am passionate about programming with which, through effort and perseverance, challenges or conflicts can be resolved.
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on new side projects
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: https://www.linkedin.com/in/ignacio-rossatti-47b60522a/
-- 😄 Pronouns: He/Him
-- 🎨 fact: I'm also a painter! :P
-- 🏀 sports lover
+🔭 I’m currently working on e-commerce proyect
+
+📫 How to reach me: https://www.linkedin.com/in/ignacio-rossatti-47b60522a/
+
+💬 Ask me about React,Javascript,Redux
+
+🏀 sports lover
 
 links relacionados
 
