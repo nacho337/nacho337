@@ -15,8 +15,7 @@ links relacionados
 🐣https://twitter.com/IgnacioRossatti
 
 
-skills: <FontAwesomeIcon icon="fa-solid fa-code" />
-
+skills: <i class="fa-brands fa-react"></i>
 
 
 
