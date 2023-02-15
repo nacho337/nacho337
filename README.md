@@ -15,7 +15,7 @@ links relacionados
 🐣https://twitter.com/IgnacioRossatti
 
 
-skills: React - Javascript - Socket io - Css - Redux - Node jS - Scrum
+skills: React - Javascript - Socket io - Css - Html - Redux - Node jS - Scrum
 
 
 
