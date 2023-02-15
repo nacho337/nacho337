@@ -15,7 +15,7 @@ links relacionados
 🐣https://twitter.com/IgnacioRossatti
 
 
-skills: <i class="fa-brands fa-react"></i>
+skills: React - Javascript - Socket io - Css - Redux - Node jS - Scrum
 
 
 
