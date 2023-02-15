@@ -15,8 +15,6 @@ links relacionados
 🐣https://twitter.com/IgnacioRossatti
 
 
-skills: React - Javascript - Socket io - Css - Html - Redux - Node jS - Scrum
-
-[![My Skills](https://skills.thijs.gg/icons?i=js,react,redux,node,html,css,sql,express,postgress)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,react,redux,html,css,express,)](https://skills.thijs.gg)
 
 
