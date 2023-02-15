@@ -6,7 +6,7 @@ I am passionate about programming with which, through effort and perseverance, c
 
 📫 How to reach me: https://www.linkedin.com/in/ignacio-rossatti-47b60522a/
 
-💬 Ask me about React,Javascript,Redux
+💬 Ask me about React,Javascript,Redux, Socket io, Html, Css - 
 
 🏀 sports lover
 
