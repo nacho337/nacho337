@@ -17,6 +17,6 @@ links relacionados
 
 skills: React - Javascript - Socket io - Css - Html - Redux - Node jS - Scrum
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,wasm)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,redux)](https://skills.thijs.gg)
 
 
