@@ -14,7 +14,9 @@ links relacionados
 
 🐣https://twitter.com/IgnacioRossatti
   
+Skills:
 
-Skills:  [![My Skills](https://skills.thijs.gg/icons?i=js,react,redux,html,css,express,)](https://skills.thijs.gg)
+
+ [![My Skills](https://skills.thijs.gg/icons?i=js,react,redux,html,css,express,)](https://skills.thijs.gg)
 
 
