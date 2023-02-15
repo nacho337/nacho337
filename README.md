@@ -13,8 +13,8 @@ I am passionate about programming with which, through effort and perseverance, c
 links relacionados
 
 🐣https://twitter.com/IgnacioRossatti
+  
 
-
-[![My Skills](https://skills.thijs.gg/icons?i=js,react,redux,html,css,express,)](https://skills.thijs.gg)
+Skills:  [![My Skills](https://skills.thijs.gg/icons?i=js,react,redux,html,css,express,)](https://skills.thijs.gg)
 
 
