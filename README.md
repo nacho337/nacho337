@@ -4,7 +4,7 @@ I am passionate about programming with which, through effort and perseverance, c
 
 🔭 I’m currently working on e-commerce proyect
 
-📫 How to reach me: https://www.linkedin.com/in/ignacio-rossatti-47b60522a/
+📫 How to reach me: https://www.linkedin.com/in/ignaciorossatti/
 
 💬 Ask me about React,Javascript,Redux, Socket io, Html, Css - 
 
