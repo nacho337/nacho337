@@ -8,7 +8,7 @@ I am passionate about programming with which, through effort and perseverance, c
 
 💬 Ask me about React,Javascript,Redux, Socket io, Html, Css - 
 
-🏀 sports lover 
+🏀 Sports lover 
 
 🎨 Visual Artist
 
