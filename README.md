@@ -4,7 +4,7 @@ I am passionate about programming with which, through effort and perseverance, c
 
 🔭 I’m currently working on e-commerce proyect
 
-(L) Learing Angular 
+🌱 Learning Angular
 
 📫 How to reach me: https://www.linkedin.com/in/ignaciorossatti/
 
