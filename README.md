@@ -2,7 +2,7 @@
 
 I am passionate about programming with which, through effort and perseverance, challenges or conflicts can be resolved.
 
-🔭 I’m currently working on e-commerce proyect
+🔭 I’m currently working on a dashboard (Angular Proyect)
 
 📫 How to reach me: https://www.linkedin.com/in/ignaciorossatti/
 
