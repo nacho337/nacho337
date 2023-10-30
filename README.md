@@ -2,7 +2,7 @@
 
 I am passionate about programming with which, through effort and perseverance, challenges or conflicts can be resolved.
 
-🔭 I’m currently working on a CryptoWallet with React.
+🔭 I’m currently working on a CryptoWallet with React. Learing Java
 
 📫 How to reach me: https://www.linkedin.com/in/ignaciorossatti/
 
